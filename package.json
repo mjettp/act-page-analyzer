@@ -49,6 +49,6 @@
         "eslint-plugin-import": "^2.14.0",
         "eslint-plugin-mocha": "^4.11.0",
         "eslint-plugin-promise": "^4.2.1",
-        "mocha": "^6.1.4"
+        "mocha": "^10.2.0"
     }
 }
